@@ -3,7 +3,7 @@ title: "A survey of ancient paralog alternative splicing patterns in Arabidopsis
 collection: talks
 type: "Lightning talk"
 venue: "University of British Columbia, Department of Botany"
-date: 2013-03-01
+date: 2019-04-05
 location: "Vancouver BC, Canada"
 ---
 
