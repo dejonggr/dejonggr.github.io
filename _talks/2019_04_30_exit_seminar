@@ -1,0 +1,19 @@
+---
+title: "Evolution of paralog gene expression patterns among paleopolyploid and cytogenetically polyploid plants"
+collection: talks
+type: "Exit seminar"
+permalink: /talks/2014-03-01-talk-3
+venue: "University of British Columbia, Department of Botany"
+date: 2014-03-01
+location: "Vancouver BC, Canada"
+---
+
+Whole-genome duplication events have played an extensive role in the evolution of flowering plants. The sudden doubling of genetic material can expedite large scale changes in gene function and expression patterns. This process can be an adaptively beneficial source of genetic variation.
+
+In the context of paleopolyploids, wherein there are identifiable remnants of an ancestral polyploidy event in a diploid species, this often facilitates the diversification of gene families as these duplicated genes are no longer selectively constrained to one specific function or regulatory pattern. Alternative splicing (AS) offers an avenue with which genes duplicated by these polyploidy events may further contribute to the functional complexity of the cell.
+
+While the extent to which AS influences functional or regulatory divergence in ancient paralogs has been previously investigated, such as those derived from the α-WGD event in *Arabidopsis thaliana*, the manifestation of this divergence in distinct tissues and cell-types is less un-derstood. Using RNA-Seq data I have surveyed the transcriptomes of root developmental zones and their constituent cell-types in paleopolyploid *Arabidopsis thaliana*. Incorporating such high-resolution data with further in silico analyses, I have demonstrated near-complete divergence in both gene expression and splicing patterns.
+
+On a considerably shorter timescale, recent whole genome duplication (WGD) events also result in novel transcriptomic effects. For example, polyploids formed via an interspecific hybridization of closely related species, or allopolyploids, can exhibit expression patterns inconsistent with their parental species (e.g. both copies biased towards one parent, or transgressive ex-pression unlike either parental transcriptome). Allopolyploidy can have profound consequences on the stress responses of these hybrids. Both abiotic and biotic stress responses have received some attention among these hybrid species; however, the extent to which the transcriptomic shock that follows WGD events plays a role in a biotic stress response remains a nascent topic in polyploidy research.
+
+In order to investigate this interplay between polyploid gene expression and biotic stress response, I subjected *Brassica napus*, *Brassica oleracea*, *Brassica rapa*, and a synthetic *Brassica napus* (formed directly from the aforementioned parental species of *B. napus*) to the economically devastating fungus *Sclerotinia sclerotiorum*. RNA-Seq data was generated for all pathosystems at 24 hours post-infection for both infected and mock infected samples. These data provide a win-dow into the transcriptomic response of polyploids under pathogen stress and illustrates a clear expression bias in parental subgenomes of *Brassica napus*.
