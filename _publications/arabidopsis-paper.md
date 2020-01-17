@@ -3,7 +3,7 @@ title: "A survey of ancient paralog expression patterns in *Arabidopsis thaliana
 collection: publications
 permalink: /publication/2019-12-18-arabidopsis-duplicate-divergence
 excerpt: 'While the extent to which AS influences functional or regulatory divergence in ancient paralogs has been previously investigated, such as those derived from the α-WGD event in Arabidopsis thaliana, the manifestation of this divergence in distinct tissues and cell-types is less understood. Using RNA-Seq data I have surveyed the transcriptomes of root developmental zones and their constituent cell-types in paleopolyploid Arabidopsis thaliana. Incorporating such high-resolution data with further in silico analyses, this demonstrates near-complete divergence in both gene expression and splicing patterns.'
-date: 2019-12-18
+date: 2020-12-18
 venue: TBD
 paperurl: TBD
 citation: TBD
