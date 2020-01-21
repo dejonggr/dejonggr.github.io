@@ -1,5 +1,5 @@
 ---
-title: "BIOL430 TA-ship"
+title: "BIOL430: Molecular Evolution"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
