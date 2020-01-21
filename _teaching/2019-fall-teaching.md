@@ -1,5 +1,5 @@
 ---
-title: "BIOL230 TA-ship"
+title: "BIOL230: Introduction to Ecology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
