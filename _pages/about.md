@@ -10,6 +10,7 @@ redirect_from:
 
 Research interests
 ======
-I am a graduate student with an interest in computantional biology - specifically projects involving transcriptomic or genomic data. 
 
+I'm a recent graduate of the Genome Science and Technology (MSc) at the University of British Columbia
 
+My research experience has fostered a strong foundation in bioinformatics, specializing in the analysis of sequencing data (RNA-seq, WGBS). Generally speaking, my primary interest lies at the intersection of biology and data science, through which I've developed extensive experience in data wrangling, shell scripting, R scripting, Python scripting, and server administration (UNIX). 
