@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Grant de Jong, M.Sc. (ongoing)"
+title: "Grant de Jong, M.Sc."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
