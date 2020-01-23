@@ -1,5 +1,5 @@
 ---
-title: "Transcriptomic response of multiple Brassica species to Sclerotinia sclerotiorum infection"
+title: "Transcriptomic response of multiple *Brassica* species to *Sclerotinia sclerotiorum* infection"
 collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
