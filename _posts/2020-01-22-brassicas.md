@@ -22,7 +22,7 @@ Now, as much as I'd like to dive into the details, findings, and methodology of 
 
 An interesting side-story that arose from the main project involved the relationship between alternative splicing and gene expression. 
 
-First, I performed a cursory set of DGEAs on *Brassica* hosts using a stringent cutoff of |log<sub>2</sub>FC| > 3, revealing that roughly 10% of polyploid genes and 7% of the diploid genes were highly responsive to the pathogen. 
+First, I performed a cursory set of DGEAs on *Brassica* hosts using a stringent cutoff of abs(log<sub>2</sub>FC) > 3, revealing that roughly 10% of polyploid genes and 7% of the diploid genes were highly responsive to the pathogen. 
 
 ![figure2](https://raw.githubusercontent.com/dejonggr/dejonggr.github.io/master/_posts/figures/figure2.png "Volcano plots of each host")
 
