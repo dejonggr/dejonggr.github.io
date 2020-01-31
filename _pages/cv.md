@@ -142,7 +142,7 @@ Awards
 
 Service and leadership
 ======
-
-* Created and moderated the lab slack 
-* Introduced the lab to Compute Canada
-* Moderated the lab personal server
+* Supervised an undergraduate honours thesis and GSAT MSc rotation projects
+* Moderated the Adams lab personal server
+* Set up the Adams lab Compute Canada account
+* Created and moderated the Adams lab slack
