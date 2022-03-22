@@ -12,11 +12,15 @@ redirect_from:
 Education
 ======
 * B.Sc.(Honours) in Genome Biology and Evolutionary Biology, University of Toronto, 2015
-* M.Sc. in Genome Science and Technology, University of British Columbia, 2019 (Anticipated)
+* M.Sc. in Genome Science and Technology, University of British Columbia, 2019
 
 Work experience
 ======
 
+* 2020-2021: Bioinformatician at Canexia Health
+  * Helped develop a plasma-based oncogenomic panel targeting low-VAF mutations from cfDNA
+  * Assisted with longitudinal cancer studies
+  * Optimized FFPE-based cancer screen
 * 2017-2019: Graduate Researcher (Adams Lab)
   * Generated lab pipelines forthe analysis of duplicate gene expression
   * Developed a pipeline forthe detection and quantitative comparison of
