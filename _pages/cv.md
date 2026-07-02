@@ -11,17 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.Sc.(Honours) in Genome Biology and Evolutionary Biology, University of Toronto, 2015
-* M.Sc. in Genome Science and Technology, University of British Columbia, 2019
+* PhD in Biological Sciences, University of Cambridge, 2025
+* MSc in Genome Science and Technology, University of British Columbia, 2019
+* BSc (Honours) in Genome Biology and Evolutionary Biology, University of Toronto, 2015
 
 Work experience
 ======
+
+* 2026: Bioinformatician, Sanger Institute
+  * Developed workflows for the integration and analysis of subcellular spatial transcriptomics data
+  * Assisted with collaborator analyses, focusing on multimodal data integration and analysis of spatial tran-
+scriptomics data
+
+* 2021–2025: Postgraduate researcher, Sanger Institute
+  * Led data analysis for the GBMspace project using the latest computational methods for integrative analysis of single nucleus multiome sequencing, spatial transcriptomics, and spatial genomics data (see Publica- tions)
+  * Assistedwithexperimentaldesign,includingLCMsamplingstrategiesforspatialgenomicsdatageneration
+  * Assisted with data quality control during data generation phase of GBMspace
+  * Assistedcollaboratorswithsubsequentanalysesandinaconsultatorycontextforbiologicalinterpretation
+of data
 
 * 2020-2021: Bioinformatician at Canexia Health
   * Helped develop a plasma-based oncogenomic panel targeting low-VAF mutations from cfDNA
   * Assisted with longitudinal cancer studies
   * Optimized FFPE-based cancer screen
-* 2017-2019: Graduate Researcher (Adams Lab)
+  
+* 2016-2019: Graduate Researcher (Adams Lab)
   * Generated lab pipelines forthe analysis of duplicate gene expression
   * Developed a pipeline forthe detection and quantitative comparison of
 alternative splicing events
@@ -31,80 +45,26 @@ student with HPC best practices using Compute Canada resources
   * Completed two projects pertaining to evolutionary plant transcriptomics (see
 below for more detail)
   
-* 2015: Research Assistant
-  * University of Toronto, Frederickson Lab
-  * Overview: Supported a project involving the genomic background of legume-rhizobium mutualisms.
-  * Supervisor: Dr. Megan Frederickson
-
-* 2014-2015: Research Assistant
-  * University of Toronto, Gilbert Lab
-  * Overview: Identified and sorted insect samples to order and family in assistance of project involving the migrationrates and colonization of insects inAsclepias syriacametapopulations
-  * Supervisor: Dr. Benjamin Gilbert
-  
-* 2014: Research Assistant 
-  * University of Toronto, Stinchcombe Lab
-  * Overview: Assisted with a number of projects examining the ecological genomicsunderlying Medicagorhizobia mutualisms.
-  * Supervisor: Dr. John Stinchcombe
-  
-* 2013-2014: Research Assistant
-  * University of Toronto, Diamond Lab
-  * Overview: Sample preparation for and performance of gas chromatography-mass spectrometry.
-  
 Skills
 ======
 
 * Programming
-  * R
-  * Python
+  * Python, R, Bash, NextFlow
   
-* Genomics
-  * RNA-seq data analysis (NGS, single-cell)
-  * NGS tools (e.g. samtools, bowtie and STAR,
-    variant detection)
-  * Bisulfite sequencing analysis
-  * Phylogenomic methods
+* Omics expertise
+  * Spatial transcriptomics (Visium, Xenium), conventional transcriptomics (single cell RNA-seq, bulk RNA-seq), genomics (single cell DNA-seq, bulk WGS), ATAC (multiome-derived single cell ATAC-seq)
   
-* Machine Learning
-  * Regression
-  * K-Nearest Neighbors
-  * Cluster Analyses
+* Common analysis pipelines
+  * Atlas-level single cell data integration (e.g. scvi-tools), cell type deconvolution of spatial transcriptomics data, atlas-level label transfer or ”surgery” pipelines, RNA velocity inference, WGS variant detection, cell-cell communication inference.
+
+* Machine learning
+  * PyTorch-based probabilistic models (e.g. scvi-tools), scikit-learn models (e.g. for classification, clustering, dimensionality reduction, matrix decomposition (NMF), parameter optimisation).
   
 * Technical
-  * HPC best practices
-  * Bash scripting
-  * Pipeline development
-  * Git and Github
-  * Microsoft Azure
-  * Server administration
+  * HPC best practices, Pipeline development, Git and GitHub, Microsoft Azure, AWS, Server administration
   
-* Biological
-  * Sequencing library preparation (Illumina)
-  * General wet-lab techniques (e.g. PCR,
-    vector cloning, RNA and DNA extractions)
-  * Gas chromatography—mass spectrometry
-  
-Projects
-======
-
-* Analysis of multiple *Brassica* transcriptomes under pathogen stress from *Sclerotinia sclerotiorum*  
-  * Designed an experiment investigating S.sclerotinia infection of
-Brassica species and performed RNA-seq to generate
-transcriptome data
-  * Performed a priori analyses of synteny on the subgenomes of
-polyploid Brassica napus and its parental genomes to identify
-homeolog-ortholog relationships
-  * Created pipelines to (1) generate gene expression data (2)
-generate junction-specific alternative splicing data
-  * Investigated Brassica responses to fungal necrotrophs and how
-interspecific hybridization mightresult in non-parental
-transcriptome responses to such stress
-
-* A survery of ancient paralog expression patterns in
-*Arabidosis thaliana* root cell-types
-  * Created pipeline to generation expression and alternative splicing
-data using publicly available cell-specific RNA-seq data
-  * Performed analyses exploring the evolution of ancien duplicate
-gene expression between Arabidopsisthaliana root cells
+* Molecular Biology
+  * Sequencing library preparation, RNA/DNA extractions, RT-PCR, basic protein identification (e.g.GC-MS)
 
 Publications
 ======
