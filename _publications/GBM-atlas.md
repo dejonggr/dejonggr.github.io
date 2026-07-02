@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-04-20-gbm-atlas-paper-1
 excerpt: 'Cancer cells display highly heterogeneous and plastic states in glioblastoma, an incurable brain tumour. However, how these malignant states arise and whether they follow defined cellular trajectories across tumours is poorly understood. Here, we generated a deep single cell and spatial multi-omic atlas of human glioblastoma that pairs transcriptomic, epigenomic and genomic profiling of 12 tumours across multiple regions. We identify that glioblastoma heterogeneity is driven by spatially-patterned transitions of cancer cells from developmental-like states towards those defined by a glial injury response and hypoxia. This cellular trajectory regionalises tumours into distinct tissue niches and manifests in a molecularly conserved manner across tumours as well as genetically distinct tumour subclones. Moreover, using a new deep learning framework to map cancer cell states jointly with clones in situ, we show that tumour subclones are finely spatially intermixed through glioblastoma tissue niches. Finally, we show that this cancer cell trajectory is intimately linked to myeloid heterogeneity and unfolds across regionalised myeloid signalling environments. Our findings define a stereotyped trajectory of cancer cells in glioblastoma and unify glioblastoma tumour heterogeneity into a tractable cellular and tissue framework.'
 date: 2025-04-20
-venue: 'Preprint, in review at Nature'
+venue: 'bioRxiv, in review at Nature'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.05.13.653495v1'
 citation: 'de Jong et al. 2025'
 ---
