@@ -25,9 +25,9 @@ scriptomics data
 
 * 2021–2025: Postgraduate researcher, Sanger Institute
   * Led data analysis for the GBMspace project using the latest computational methods for integrative analysis of single nucleus multiome sequencing, spatial transcriptomics, and spatial genomics data (see Publica- tions)
-  * Assistedwithexperimentaldesign,includingLCMsamplingstrategiesforspatialgenomicsdatageneration
+  * Assisted with experimental design, including LCM sampling strategies for spatial genomics data generation
   * Assisted with data quality control during data generation phase of GBMspace
-  * Assistedcollaboratorswithsubsequentanalysesandinaconsultatorycontextforbiologicalinterpretation
+  * Assisted collaborators with subsequent analyses and in a consultatory context for biological interpretation
 of data
 
 * 2020-2021: Bioinformatician at Canexia Health
@@ -86,27 +86,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Awards
-======
-
-**University of British Columbia**
-* Genome Science and Technology Rotation Award (2016-2018)
-  * Awarded funding to rotate through several labs and learn a variety of genomic technologies
-  * Awarded tuition funding for two years
-
-**University of Toronto**
-* Dean’s List (2012-2015)
-* University College In-Course Excellence Scholarship (2013)
-* University of Toronto Presidents Entrance Scholarship (2011)
-
-**Other**
-* Excellence in Technology Skills (2011)
-  * Demonstrated technological aptitude at Skills Ontario, placing second in Arcitectural Programming
-
-Service and leadership
-======
-* Supervised an undergraduate honours thesis and GSAT MSc rotation projects
-* Moderated the Adams lab personal server
-* Set up the Adams lab Compute Canada account
-* Created and moderated the Adams lab slack
