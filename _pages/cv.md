@@ -69,16 +69,18 @@ Skills
 Publications
 ======
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% assign publications = site.publications | sort: "date" | reverse %}
+  <ul>{% for post in publications %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
   
 Talks
 ======
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% assign talks = site.talks | sort: "date" | reverse %}
+  <ul>{% for post in talks %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}</ul>
   
 Teaching
 ======
