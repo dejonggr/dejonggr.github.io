@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Grant de Jong"
 title_separator          : "-"
 name                     : &name "Grant de Jong"
-description              : &description "Graduate student and prospective PhD candidate"
+description              : &description "Computational biologist"
 url                      : https://dejonggr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dejonggr/dejonggr.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Grant de Jong"
   avatar           : "16997845_10154416357678087_1774105513041169043_n.png"
   bio              : "Graduate student studying genomics"
-  location         : "Vancouver"
+  location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_Yk-bV4AAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Grant_De_Jong3"
+  researchgate     : # "https://www.researchgate.net/profile/Grant_De_Jong3"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5614-9651"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
